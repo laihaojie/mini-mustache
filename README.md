@@ -4,10 +4,10 @@
 
 ```shell
 
-npm install
+npm i
 
-or
+或者 
 
-yarn install
+yarn  or  yarn install
 
 ```
